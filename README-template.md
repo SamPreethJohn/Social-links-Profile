@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/SamPreethJohn/Social-links-Profile)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://sampreethjohn.github.io/Social-links-Profile/)
 
 ## My process
 
